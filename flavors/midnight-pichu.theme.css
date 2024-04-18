@@ -36,12 +36,12 @@
 	--accent-3: hsl(347, 50%, 55%); /* accent buttons */
 	--accent-4: hsl(347, 50%, 50%); /* accent buttons when hovered */
 	--accent-5: hsl(347, 50%, 45%); /* accent buttons when clicked */
-	--mention: hsla(347, 50%, 68%); /* mentions & mention messages */
+	--mention: hsla(347, 41%, 85%); /* mentions & mention messages */
 	--mention-hover: hsla(347, 50%, 45%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: var(--text-2); /* text on colored elements */
-	--text-1: hsl(350, 62%, 75%); /* other normally white text */
+	--text-1: hsl(350, 57%, 64%); /* other normally white text */
 	--text-2: hsl(349, 54%, 86%); /* headings and important text */
 	--text-3: hsl(348, 38%, 65%); /* normal text */
 	--text-4: hsl(347, 40%, 68%); /* icon buttons and channels */
